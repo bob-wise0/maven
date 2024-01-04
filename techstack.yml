@@ -1,0 +1,200 @@
+repo_name: bob-wise0/maven
+report_id: 7920123a8bade14562a4de0399ce21b5
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-04T13:04:35+00:00'
+requested_by: cstamas
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/bob-wise0/maven
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/bob-wise0/maven
+  detection_source: Repo Metadata
+- name: Apache Maven
+  description: 'Apache build manager for Java projects. '
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-embedder/src/test/projects/config-illegal/.mvn/maven.config
+  detection_source: maven-embedder/src/test/projects/config-illegal/.mvn/maven.config
+  last_updated_by: Igor Fedorenko
+  last_updated_on: 2015-01-26 19:22:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bob-wise0/maven
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/.github/workflows/maven.yml
+  detection_source: ".github/workflows/maven.yml"
+  last_updated_by: Guillaume Nodet
+  last_updated_on: 2023-09-22 07:25:10.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/.asf.yaml
+  detection_source: ".asf.yaml"
+  last_updated_by: Hervé Boutemy
+  last_updated_on: 2019-12-06 15:10:06.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-core/src/test/projects/lifecycle-executor/project-with-inheritance/pom.xml
+  detection_source: maven-core/src/test/projects/lifecycle-executor/project-with-inheritance/pom.xml
+  last_updated_by: Jason van Zyl
+  last_updated_on: 2009-03-28 18:24:05.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-embedder/pom.xml
+  detection_source: maven-embedder/pom.xml
+  last_updated_by: Hervé Boutemy
+  last_updated_on: 2012-12-18 23:36:27.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-compat/pom.xml
+  detection_source: maven-compat/pom.xml
+  last_updated_by: Tamas Cservenak
+  last_updated_on: 2021-10-02 13:22:32.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/apache-maven/pom.xml
+  detection_source: apache-maven/pom.xml
+  last_updated_by: Jason van Zyl
+  last_updated_on: 2008-04-16 04:57:15.000000000 Z
+- name: xmlunit
+  website_url: https://www.xmlunit.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9143/no-img-open-source.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-model-builder/pom.xml
+  detection_source: maven-model-builder/pom.xml
+  last_updated_by: Guillaume Nodet
+  last_updated_on: 2023-11-17 15:31:11.000000000 Z
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-embedder/pom.xml
+  detection_source: maven-embedder/pom.xml
+  last_updated_by: Hervé Boutemy
+  last_updated_on: 2012-12-18 23:36:27.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-core/pom.xml
+  detection_source: maven-core/pom.xml
+  last_updated_by: Tamas Cservenak
+  last_updated_on: 2023-12-13 22:19:20.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-api
+  description: Module "junit-jupiter-api" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-core/src/test/resources/consumer/trivial/pom.xml
+  detection_source: maven-core/src/test/resources/consumer/trivial/pom.xml
+  last_updated_by: Guillaume Nodet
+  last_updated_on: 2023-11-28 17:17:10.000000000 Z
+- name: org.mockito:mockito-junit-jupiter
+  description: Mockito JUnit 5 support
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-core/pom.xml
+  detection_source: maven-core/pom.xml
+  last_updated_by: Tamas Cservenak
+  last_updated_on: 2023-12-13 22:19:20.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bob-wise0/maven/blob/master/maven-core/pom.xml
+  detection_source: maven-core/pom.xml
+  last_updated_by: Tamas Cservenak
+  last_updated_on: 2023-12-13 22:19:20.000000000 Z
