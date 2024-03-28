@@ -1,8 +1,8 @@
 repo_name: bob-wise0/maven
-report_id: 7920123a8bade14562a4de0399ce21b5
+report_id: 781b63f2022c7f621917314718cb79b4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-04T13:04:35+00:00'
+timestamp: '2024-03-28T08:38:30+00:00'
 requested_by: cstamas
 provider: github
 branch: master
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/bob-wise0/maven
   detection_source: Repo Metadata
 - name: Apache Maven
-  description: 'Apache build manager for Java projects. '
+  description: Apache build manager for Java projects.
   website_url: http://maven.apache.org/
   license: Apache-2.0
   open_source: true
