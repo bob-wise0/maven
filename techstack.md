@@ -4,13 +4,13 @@
 bob-wise0/maven is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Istio](https://istio.io/) – Microservices Tools
 - [JUnit](http://junit.org/) – Testing Frameworks
+- [Logback](https://logback.qos.ch/) – Log Management
 - [Mockito](https://site.mockito.org/) – Testing Frameworks
 - [SLF4J](http://slf4j.org/) – Log Management
-- [Logback](https://logback.qos.ch/) – Log Management
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- [Istio](https://istio.io/) – Microservices Tools
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 bob-wise0/maven is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [bob-wise0/maven](https://github.com/bob-wise0/maven)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/04/24 <br/>Report generated|
+|16<br/>Tools used|03/28/24 <br/>Report generated|
 |------|------|
 </div>
 
